@@ -1,0 +1,49 @@
+:root{
+    --primary: #dddddd;
+    --secondary: #333333;
+    --base: #cccccc;
+    --white: #ffffff;
+}
+
+
+body{
+    display: block;
+    margin: 0px !important;
+    padding: 0px !important;
+    background: #fff !important;
+    margin-left: 50px;
+    margin-right: 300px;
+    align-content: center;
+}
+
+.heading {
+    color: rgb(29, 29, 180);
+    font-weight: 900 !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center !important;
+    margin: 20px;
+}
+h3 {
+    font-size: 35px!important;
+}
+ .sub-head, h4 {
+    color: rgb(10, 10, 212);
+    font-weight: 900;
+    font-size: 16px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+ }
+ .main {
+     margin: 20px;
+}
+.main, h4, table{
+    margin: 20px;
+}
+
+.body, th {
+    color: blue !important;
+ 
+}
+th, .head {
+    font-weight: bold;
+}
